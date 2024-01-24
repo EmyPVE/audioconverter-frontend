@@ -1,0 +1,61 @@
+.payment-modal .modal-header {
+  background-color: #f7f7f7; 
+  border-bottom: 1px solid #dee2e6;
+}
+
+.payment-modal .modal-title {
+  color: #333;
+}
+
+.payment-modal .modal-body {
+  padding: 20px;
+}
+
+.payment-modal .form-label {
+  font-weight: bold;
+}
+
+.payment-modal .form-control {
+  border-radius: 0.25rem;
+}
+
+.payment-modal .payment-options p {
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.payment-modal .payment-options button {
+  width: 100%; 
+  margin-top: 15px;
+  margin-bottom: 15px; 
+}
+
+.payment-modal .payment-options button:first-child {
+  margin-top: 0; 
+}
+
+.payment-modal .payment-options button:last-child {
+  margin-bottom: 0; 
+}
+
+.btn-apple-pay {
+  background-color: black;
+  color: white;
+}
+
+.btn-google-pay {
+  background-color: white;
+  color: black;
+  border: 1px solid #333;
+}
+
+.btn-skrill {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.btn-paypal {
+  background-color: #007bff;
+  color: white;
+}
